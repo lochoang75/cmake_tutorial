@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elliot/learning/cmake_tutorial/Step9/MathFunctions/MathFunctions.cxx
+MathFunctions.h
+/home/elliot/learning/cmake_tutorial/Step9/MathFunctions/MathFunctions.h
+cmath
+-
+mysqrt.h
+/home/elliot/learning/cmake_tutorial/Step9/MathFunctions/mysqrt.h
+
+/home/elliot/learning/cmake_tutorial/Step9/MathFunctions/MathFunctions.h
+
+/home/elliot/learning/cmake_tutorial/Step9/MathFunctions/mysqrt.h
+
